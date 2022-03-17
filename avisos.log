@@ -1,0 +1,89 @@
+[2022-03-17 10:15:46] [ INFO ] [ImpDomicilioDaoH2:62] logger info en el metodo guardar
+[2022-03-17 10:15:46] [ INFO ] [ImpDomicilioDaoH2:70] logger info en el metodo guardar
+[2022-03-17 10:15:46] [ INFO ] [ImpDomicilioDaoH2:62] logger info en el metodo guardar
+[2022-03-17 10:15:46] [ INFO ] [ImpDomicilioDaoH2:70] logger info en el metodo guardar
+[2022-03-17 10:16:15] [ INFO ] [ImpDomicilioDaoH2:62] logger info en el metodo guardar
+[2022-03-17 10:16:15] [ INFO ] [ImpDomicilioDaoH2:62] logger info en el metodo guardar
+[2022-03-17 11:12:23] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@1fc2b765
+[2022-03-17 11:15:31] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@13eb8acf
+[2022-03-17 11:16:58] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@13eb8acf
+[2022-03-17 11:24:18] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@7bb58ca3
+[2022-03-17 11:24:18] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@1a38c59b
+[2022-03-17 11:32:50] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@7bb58ca3
+[2022-03-17 11:32:50] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@1a38c59b
+[2022-03-17 11:32:58] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@543c6f6d
+[2022-03-17 11:34:51] [ ERROR] [ImpDomicilioDaoH2:75] este es un logger error[Ljava.lang.StackTraceElement;@13eb8acf[2022-03-17 14:44:38] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@166fa74d
+[2022-03-17 14:44:39] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@1442d7b5
+[2022-03-17 14:44:39] [ ERROR] [OdontologoIDaoH2:77] este es un logger error en buscar todos[Ljava.lang.StackTraceElement;@6cc7b4de
+[2022-03-17 14:52:31] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@6ddf90b0
+[2022-03-17 14:52:31] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@7791a895
+[2022-03-17 14:52:31] [ ERROR] [OdontologoIDaoH2:77] este es un logger error en buscar todos[Ljava.lang.StackTraceElement;@2b9627bc
+[2022-03-17 14:53:22] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@6ddf90b0
+[2022-03-17 14:53:22] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@7791a895
+[2022-03-17 14:53:22] [ ERROR] [OdontologoIDaoH2:77] este es un logger error en buscar todos[Ljava.lang.StackTraceElement;@2b9627bc
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 3--222--peter--Bauman
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 4--223--Marcos--Alonso
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 1: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 2: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 3: apellido Bauman, nombre peter - numero de matricula 222
+[2022-03-17 14:53:40] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 4: apellido Alonso, nombre Marcos - numero de matricula 223
+[2022-03-17 14:55:12] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@1442d7b5
+[2022-03-17 14:55:12] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@799d4f69
+[2022-03-17 14:55:12] [ ERROR] [OdontologoIDaoH2:77] este es un logger error en buscar todos[Ljava.lang.StackTraceElement;@69a10787
+[2022-03-17 14:55:32] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 5--111--tomas--herrera
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 6--112--juan--di pietro
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 1: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 2: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 3: apellido Bauman, nombre peter - numero de matricula 222
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 4: apellido Alonso, nombre Marcos - numero de matricula 223
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 5: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:33] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 6: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 7--111--tomas--herrera
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 8--112--juan--di pietro
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 1: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 2: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 3: apellido Bauman, nombre peter - numero de matricula 222
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 4: apellido Alonso, nombre Marcos - numero de matricula 223
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 5: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 6: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 7: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:35] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 8: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:42] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 9--111--tomas--herrera
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 10--112--juan--di pietro
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 1: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 2: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 3: apellido Bauman, nombre peter - numero de matricula 222
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 4: apellido Alonso, nombre Marcos - numero de matricula 223
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 5: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 6: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 7: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 8: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 9: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:55:43] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 10: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:57:56] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@1efee8e7
+[2022-03-17 14:57:56] [ ERROR] [OdontologoIDaoH2:39] este es un logger error[Ljava.lang.StackTraceElement;@49c43f4e
+[2022-03-17 14:57:56] [ ERROR] [OdontologoIDaoH2:77] este es un logger error en buscar todos[Ljava.lang.StackTraceElement;@2d127a61
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 11--111--tomas--herrera
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:33] logger info en el metodo guardar
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:36] Se creo el odontologo 12--112--juan--di pietro
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 1: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 2: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 3: apellido Bauman, nombre peter - numero de matricula 222
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 4: apellido Alonso, nombre Marcos - numero de matricula 223
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 5: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 6: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 7: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 8: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 9: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 10: apellido di pietro, nombre juan - numero de matricula 112
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 11: apellido herrera, nombre tomas - numero de matricula 111
+[2022-03-17 14:58:42] [ INFO ] [OdontologoIDaoH2:72] * Odontologo * id 12: apellido di pietro, nombre juan - numero de matricula 112
